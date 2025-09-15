@@ -4,4 +4,4 @@ def boas_vindas(nome: str) -> str:
     """
     if not nome.strip():
         return "Olá, visitante!"
-    return f"Olá, {nome}! Bem-vindo ao projeto DevOps 🚀"
+    return f"Olá, {nome}! Bem-vindo ao projeto DevOps 🚀 Esse é um teste."
